@@ -1,0 +1,16 @@
+C:\Users\komputer\source\repos\guzik\guzik\bin\Debug\net8.0-windows\guzik.exe
+C:\Users\komputer\source\repos\guzik\guzik\bin\Debug\net8.0-windows\guzik.deps.json
+C:\Users\komputer\source\repos\guzik\guzik\bin\Debug\net8.0-windows\guzik.runtimeconfig.json
+C:\Users\komputer\source\repos\guzik\guzik\bin\Debug\net8.0-windows\guzik.dll
+C:\Users\komputer\source\repos\guzik\guzik\bin\Debug\net8.0-windows\guzik.pdb
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.Form1.resources
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.csproj.GenerateResource.cache
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.AssemblyInfoInputs.cache
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.AssemblyInfo.cs
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.csproj.CoreCompileInputs.cache
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.dll
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\refint\guzik.dll
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.pdb
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\guzik.genruntimeconfig.cache
+C:\Users\komputer\source\repos\guzik\guzik\obj\Debug\net8.0-windows\ref\guzik.dll
